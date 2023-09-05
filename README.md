@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C programming language**
 
-- 👨‍💻 All of my projects are available at [https://github.com/yousefayman2003?tab=repositories](https://github.com/yousefayman2003?tab=repositories)
+- 👨‍💻 All of my projects are available at [link](https://github.com/yousefayman2003?tab=repositories)
 
 - 📫 How to reach me **yousefayman20003@gmail.com**
 
