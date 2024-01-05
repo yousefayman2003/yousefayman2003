@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yousefayman2003&label=Profile%20views&color=0e75b6&style=flat" alt="yousefayman2003" /> </p>
 
-- 🌱 I’m currently learning **C programming language**
+- 🌱 I’m currently learning **JavaScript programming language**
 
 - 👨‍💻 All of my projects are available at [link](https://github.com/yousefayman2003/Portfolio-Projects)
 
